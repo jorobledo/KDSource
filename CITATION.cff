@@ -4,13 +4,13 @@
 cff-version: 1.2.0
 title: >-
   KDSource, a tool for the generation of Monte Carlo
-  particlesources using kernel density estimation
+  particle sources using kernel density estimation
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: software
 authors:
-  - given-names: Inti
+  - given-names: Inti Osiris
     family-names: Abatte
     email: intiAbbate@gmail.com
     orcid: 'https://orcid.org/0000-0002-7764-1776'
