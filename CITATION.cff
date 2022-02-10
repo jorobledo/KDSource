@@ -13,12 +13,15 @@ authors:
   - given-names: Inti
     family-names: Abatte
     email: intiAbbate@gmail.com
+    orcid: 'https://orcid.org/0000-0002-7764-1776'
   - given-names: Norberto
     family-names: Schmidt
     email: norbertoschmidt@gmail.com
+    orcid: 'https://orcid.org/0000-0003-3600-1446'
   - given-names: Zoe
     family-names: Prieto
     email: zoe.prietom@gmail.com
+    orcid: 'https://orcid.org/0000-0001-8641-1588'
   - given-names: Jose Ignacio
     family-names: Robledo
     email: jose.robledo@cab.cnea.gov.ar
@@ -29,7 +32,10 @@ authors:
     orcid: 'https://orcid.org/0000-0003-0289-7838'
   - given-names: Ariel
     family-names: Márquez
-  - given-names: 'José Ignacio '
+  - given-names: 'José Ignacio'
     family-names: Márquez
     email: nachomarquez@gmail.com
     orcid: 'https://orcid.org/0000-0002-9611-914X'
+
+license: GPL-3
+repository-code: "https://github.com/KDSource/KDSource"
