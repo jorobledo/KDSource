@@ -10,15 +10,15 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Inti Osiris
-    family-names: Abatte
-    email: intiAbbate@gmail.com
+  - given-names: Osiris Inti
+    family-names: Abbate
+    email: intiabbate@gmail.com
     orcid: 'https://orcid.org/0000-0002-7764-1776'
-  - given-names: Norberto
+  - given-names: Norberto Sebastián
     family-names: Schmidt
-    email: norbertoschmidt@gmail.com
+    email: norberttschmidt@gmail.com
     orcid: 'https://orcid.org/0000-0003-3600-1446'
-  - given-names: Zoe
+  - given-names: Zoe Micaela
     family-names: Prieto
     email: zoe.prietom@gmail.com
     orcid: 'https://orcid.org/0000-0001-8641-1588'
@@ -30,10 +30,11 @@ authors:
     family-names: Dawidowski
     email: jdawidowski@gmail.com
     orcid: 'https://orcid.org/0000-0003-0289-7838'
-  - given-names: Ariel
+  - given-names: Ariel Aníbal
     family-names: Márquez
-  - given-names: 'José Ignacio'
-    family-names: Márquez
+    email: arielmqz@gmail.com
+  - given-names: José Ignacio
+    family-names: Márquez Damián
     email: nachomarquez@gmail.com
     orcid: 'https://orcid.org/0000-0002-9611-914X'
 
